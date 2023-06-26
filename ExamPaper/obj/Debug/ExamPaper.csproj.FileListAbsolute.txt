@@ -1,0 +1,7 @@
+C:\Users\levan\source\repos\ExamPaper\ExamPaper\obj\Debug\ExamPaper.csproj.AssemblyReference.cache
+C:\Users\levan\source\repos\ExamPaper\ExamPaper\obj\Debug\ExamPaper.csproj.CoreCompileInputs.cache
+C:\Users\levan\source\repos\ExamPaper\ExamPaper\bin\Debug\ExamPaper.exe.config
+C:\Users\levan\source\repos\ExamPaper\ExamPaper\bin\Debug\ExamPaper.exe
+C:\Users\levan\source\repos\ExamPaper\ExamPaper\bin\Debug\ExamPaper.pdb
+C:\Users\levan\source\repos\ExamPaper\ExamPaper\obj\Debug\ExamPaper.exe
+C:\Users\levan\source\repos\ExamPaper\ExamPaper\obj\Debug\ExamPaper.pdb
